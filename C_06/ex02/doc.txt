@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/351845/finding-the-type-of-an-object-in-c
+https://en.wikipedia.org/wiki/Run-time_type_information
